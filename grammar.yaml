@@ -1,0 +1,33 @@
+      root:
+        groups:
+          -
+            tags: []
+            phrases:
+              - "This [:plant] is [:height] and has [:leaves]."
+      plant:
+        groups:
+          -
+            tags: []
+            phrases:
+              - "plant"
+              - "flora"
+              - "tree"
+      height:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "diminutive"
+            - "short"
+            - "average-height"
+            - "tall"
+            - "towering"
+            - "gigantic"
+            
+      leaves:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "needles"
+            - "leaves"
