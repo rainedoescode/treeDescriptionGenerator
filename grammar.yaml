@@ -3,7 +3,7 @@
           -
             tags: []
             phrases:
-              - "This [:plant] is [:height] and has [:foliage].\n\n[:graph]"
+              - "This [:plant] is [:height] and has [:foliage].\n[:graph]"
       plant:
         groups:
           -
@@ -27,12 +27,15 @@
       foliage:
         groups:
           -
-            tags: ["foliage","leaves"]
+            tags:
+            - ['foliage', 'leaves']
             phrases:
             - "oval leaves"
             - "serrated leaves"
             - "round leaves"
-            tags: ["foliage","needles"]
+          -
+            tags:
+            - ['foliage', 'needles']
             phrases:
             - "flat needles"
             - "four-sided needles"
@@ -97,7 +100,7 @@
             tags: []
             phrases:
             - "It has a [:canopywidth],[:canopythickness] canopy that is [:canopyshape] in shape."
-            - "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]"
+            - "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]."
       
       canopywidth:
         groups:
