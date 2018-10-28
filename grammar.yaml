@@ -3,7 +3,7 @@
           -
             tags: []
             phrases:
-              - "This [:plant] is [:height] and has [:leaves]."
+              - "This [:plant] is [:height] and has [:foliage].\n\n[:graph]"
       plant:
         groups:
           -
@@ -24,10 +24,113 @@
             - "towering"
             - "gigantic"
             
-      leaves:
+      foliage:
+        groups:
+          -
+            tags: ["foliage","leaves"]
+            phrases:
+            - "oval leaves"
+            - "serrated leaves"
+            - "round leaves"
+            tags: ["foliage","needles"]
+            phrases:
+            - "flat needles"
+            - "four-sided needles"
+            - "scale-like needles"
+            
+      graph:
         groups:
           -
             tags: []
             phrases:
-            - "needles"
-            - "leaves"
+            - "[:statement][:statement][:statement]"
+            
+      statement:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "[:barkdesc]"
+            - "[:canopydesc]"
+            - ""
+            
+      barkdesc:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "The bark is [:barkcolor] and [:barktexture]."
+            - "The bark is [:barktexture] and [:barkcolor]."
+            - "The [:barkcolor] surface is [:barktexture]."
+            - "The surface is [:barkcolor] and [:barktexture]."
+            
+      barkcolor:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "dark brown"
+            - "warm grey"
+            - "reddish"
+            - "light brown"
+            - "almost-white"
+            - "grey-brown"
+            - "tan"
+            
+      barktexture:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "smooth"
+            - "peeling"
+            - "scaled"
+            - "rough"
+            - "cracked"
+            - "ridged"
+            - "plated"
+            - "flaking"
+            
+      canopydesc:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "It has a [:canopywidth],[:canopythickness] canopy that is [:canopyshape] in shape."
+            - "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]"
+      
+      canopywidth:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "narrow"
+            - "average-width"
+            - "expansive"
+            - "small"
+            - "large"
+            - "medium-sized"
+            
+      canopythickness:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "sparse"
+            - "full"
+            - "thick"
+            - "uneven"
+            - "sprawling"
+            - "dense"
+            
+      canopyshape:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "triangular"
+            - "round"
+            - "ovoid"
+            - "spherical"
+            - "conical"
+            - "disc-like"
