@@ -10,8 +10,11 @@
             tags: []
             phrases:
               - "plant"
+              - "plant"
               - "flora"
               - "tree"
+              - "tree"
+              
       height:
         groups:
           -
@@ -33,6 +36,8 @@
             - "oval leaves"
             - "serrated leaves"
             - "round leaves"
+            - "compound leaves"
+            - "long leaves"
           -
             tags:
             - ['foliage', 'needles']
@@ -40,13 +45,15 @@
             - "flat needles"
             - "four-sided needles"
             - "scale-like needles"
+            - "bunched needles"
+            - "individual needles"
             
       graph:
         groups:
           -
             tags: []
             phrases:
-            - "[:statement][:statement][:statement]"
+            - "[:statement]\n[:statement]\n[:statement]\n"
             
       statement:
         groups:
@@ -55,7 +62,7 @@
             phrases:
             - "[:barkdesc]"
             - "[:canopydesc]"
-            - ""
+            - "[:seeds]"
             
       barkdesc:
         groups:
@@ -64,8 +71,9 @@
             phrases:
             - "The bark is [:barkcolor] and [:barktexture]."
             - "The bark is [:barktexture] and [:barkcolor]."
-            - "The [:barkcolor] surface is [:barktexture]."
-            - "The surface is [:barkcolor] and [:barktexture]."
+            - "The [:barkcolor] bark is [:barktexture]."
+            - "The [:barktexture] bark is [:barkcolor]."
+            - "The skin is [:barkcolor] and [:barktexture]."
             
       barkcolor:
         groups:
@@ -99,7 +107,7 @@
           -
             tags: []
             phrases:
-            - "It has a [:canopywidth],[:canopythickness] canopy that is [:canopyshape] in shape."
+            - "It has a [:canopywidth], [:canopythickness] canopy that is [:canopyshape] in shape."
             - "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]."
       
       canopywidth:
@@ -137,3 +145,16 @@
             - "spherical"
             - "conical"
             - "disc-like"
+            
+      seeds:
+        groups:
+          -
+            tags:
+            - ['foliage', 'leaves']
+            phrases:
+            - ""
+          -
+            tags:
+            - ['foliage', 'needles']
+            phrases:
+            - ""
