@@ -62,7 +62,7 @@
             phrases:
             - "[:barkdesc]"
             - "[:canopydesc]"
-            - "[:seeds]"
+            - "[:seeddesc]"
             
       barkdesc:
         groups:
@@ -107,7 +107,7 @@
           -
             tags: []
             phrases:
-            - "It has a [:canopywidth], [:canopythickness] canopy that is [:canopyshape] in shape."
+            - "It has [a :canopywidth], [:canopythickness] canopy that is [:canopyshape] in shape."
             - "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]."
       
       canopywidth:
@@ -146,15 +146,31 @@
             - "conical"
             - "disc-like"
             
+      seeddesc:
+        groups:
+          -
+            tags: []
+            phrases:
+            - "It reproduces by growing [:seeds]."
+            
       seeds:
         groups:
           -
             tags:
             - ['foliage', 'leaves']
             phrases:
-            - ""
+            - "berries"
+            - "nuts"
+            - "seed pods"
+            - "catkins"
+            - "samaras"
+            - "seed capsules"
           -
             tags:
             - ['foliage', 'needles']
             phrases:
-            - ""
+            - "seed-filled cones"
+            - "heat-activated cones"
+            - "large cones"
+            - "round cones"
+            - "berry-like cones"
