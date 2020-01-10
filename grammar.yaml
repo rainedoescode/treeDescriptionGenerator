@@ -24,6 +24,7 @@
             - "short"
             - "average-height"
             - "tall"
+            - "lofty"
             - "towering"
             - "gigantic"
             
@@ -37,7 +38,11 @@
             - "serrated leaves"
             - "round leaves"
             - "compound leaves"
+            - "symmetrical leaflets"
+            - "triangular leaves"
             - "long leaves"
+            - "palmate leaves"
+            - "[#3-7]-lobed leaves"
           -
             tags:
             - ['foliage', 'needles']
@@ -70,10 +75,11 @@
             tags: []
             phrases:
             - "The bark is [:barkcolor] and [:barktexture]."
-            - "The bark is [:barktexture] and [:barkcolor]."
+            - "The bark is [:barktexture] and [:barkcolor] in color."
             - "The [:barkcolor] bark is [:barktexture]."
-            - "The [:barktexture] bark is [:barkcolor]."
-            - "The skin is [:barkcolor] and [:barktexture]."
+            - "The [:barktexture] bark is [:barkcolor] in color."
+            - "The [:plant]'s skin is [:barkcolor] and [:barktexture]."
+            - "The [:plant]'s skin is [:barktexture] and [:barkcolor]."
             
       barkcolor:
         groups:
@@ -87,6 +93,7 @@
             - "almost-white"
             - "grey-brown"
             - "tan"
+            - "cool grey"
             
       barktexture:
         groups:
@@ -120,7 +127,9 @@
             - "expansive"
             - "small"
             - "large"
+            - "sprawling"
             - "medium-sized"
+            - "broad"
             
       canopythickness:
         groups:
@@ -131,20 +140,30 @@
             - "full"
             - "thick"
             - "uneven"
-            - "sprawling"
+            - "irregular"
             - "dense"
+            - "crowded"
+            - "impenetrable"
+            - "scattered"
+            - "thin"
             
       canopyshape:
         groups:
           -
             tags: []
             phrases:
-            - "triangular"
-            - "round"
+            - "pyramidal"
+            - "rounded"
             - "ovoid"
             - "spherical"
             - "conical"
             - "disc-like"
+            - "weeping"
+            - "columnal"
+            - "spreading"
+            - "layered"
+            # this may move to a special section
+            - "fountain-like"
             
       seeddesc:
         groups:
@@ -152,6 +171,7 @@
             tags: []
             phrases:
             - "It reproduces by growing [:seeds]."
+            - "It propagates by producing [:seeds]."
             
       seeds:
         groups:
@@ -165,6 +185,7 @@
             - "catkins"
             - "samaras"
             - "seed capsules"
+            - "root sprouts"
           -
             tags:
             - ['foliage', 'needles']
@@ -174,3 +195,4 @@
             - "large cones"
             - "round cones"
             - "berry-like cones"
+            - "root sprouts"

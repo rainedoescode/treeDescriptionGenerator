@@ -16,14 +16,15 @@ const grammarData = yaml.load(fs.read('grammar.yaml'));
     reincorporate: true
 });*/
 
-// Generate text and print it out
+// Generate text and print it out, five examples
 for ( var i = 0; i < 5; i++) {
+
+    console.log("------------")
     const generator = new Improv(grammarData, {
         filters: [Improv.filters.mismatchFilter(),
             Improv.filters.partialBonus(),
             Improv.filters.unmentioned(1),
-            Improv.filters.dryness()],
-        reincorporate: true
+            Improv.filters.dryness()]
     });
     console.log(generator.gen('root', {}));
     console.log("------------")
