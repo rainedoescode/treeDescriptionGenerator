@@ -1,0 +1,25 @@
+{
+  "name": "treedescriptiongenerator",
+  "version": "0.3.0",
+  "description": "A program that generates descriptions of tree-like plants",
+  "main": "treedescgen.js",
+  "dependencies": {
+    "fs-jetpack": "^2.2.0",
+    "improv": "^1.0.0",
+    "js-yaml": "^3.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainealexander/treeDescriptionGenerator.git"
+  },
+  "author": "Raine Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainealexander/treeDescriptionGenerator/issues"
+  },
+  "homepage": "https://github.com/rainealexander/treeDescriptionGenerator#readme"
+}
