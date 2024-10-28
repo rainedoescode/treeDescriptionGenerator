@@ -13,6 +13,18 @@
                 "plated",
                 "flaking"
             ]
+        },
+        {
+            "tags": [["plantage", "old"], ["plantage", "ancient"]],
+            "phrases": [
+                "gnarled",
+                "craggy",
+                "crack-riddled",
+                "scarred",
+                "ridged",
+                "bumpy",
+                "lump-covered"
+            ]
         }
     ]
 }

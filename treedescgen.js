@@ -27,7 +27,7 @@ function loadSpec () {
         }
         spec[snippet.name] = snippet;
     });
-
+    
     return spec;
 }
 

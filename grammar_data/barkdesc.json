@@ -8,8 +8,8 @@
                 "The bark is [:barktexture] and [:barkcolor] in color.",
                 "The [:barkcolor] bark is [:barktexture].",
                 "The [:barktexture] bark is [:barkcolor] in color.",
-                "The [:plant]'s skin is [:barkcolor] and [:barktexture].",
-                "The [:plant]'s skin is [:barktexture] and [:barkcolor]."
+                "The [:plantword]'s skin is [:barkcolor] and [:barktexture].",
+                "The [:plantword]'s skin is [:barktexture] and [:barkcolor]."
             ]
         }
     ]

@@ -4,7 +4,8 @@
         {
             "tags": [],
             "phrases": [
-                "This [:plant] is [:height] and has [:foliage].\n[:graph]"
+                "This [:plantage] [:plantword] is [:height] and has [:foliage].\n[:graph]",
+                "This [:height] [:plantword] appears [:plantage] and has [:foliage].\n[:graph]"
             ]
         }
     ]
