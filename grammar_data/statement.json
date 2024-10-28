@@ -1,0 +1,13 @@
+{
+    "name": "statement",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "[:barkdesc]",
+                "[:canopydesc]",
+                "[:seeddesc]"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "canopythickness",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "sparse",
+                "full",
+                "thick",
+                "uneven",
+                "irregular",
+                "dense",
+                "crowded",
+                "impenetrable",
+                "scattered",
+                "thin"
+            ]
+        }
+    ]
+}

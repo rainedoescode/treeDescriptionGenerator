@@ -1,0 +1,11 @@
+{
+    "name": "graph",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "[:statement]\n[:statement]\n[:statement]\n"
+            ]
+        }
+    ]
+}

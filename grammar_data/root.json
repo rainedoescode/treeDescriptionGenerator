@@ -1,0 +1,11 @@
+{
+    "name": "root",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "This [:plant] is [:height] and has [:foliage].\n[:graph]"
+            ]
+        }
+    ]
+}

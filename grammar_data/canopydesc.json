@@ -1,0 +1,12 @@
+{
+    "name": "canopydesc",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "It has [a :canopywidth], [:canopythickness] canopy that is [:canopyshape] in shape.",
+                "The canopy is [:canopyshape], [:canopythickness], and [:canopywidth]."
+            ]
+        }
+    ]
+}

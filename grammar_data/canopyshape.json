@@ -1,0 +1,21 @@
+{
+    "name": "canopyshape",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "pyramidal",
+                "rounded",
+                "ovoid",
+                "spherical",
+                "conical",
+                "disc-like",
+                "weeping",
+                "columnal",
+                "spreading",
+                "layered",
+                "fountain-like"
+            ]
+        }
+    ]
+}

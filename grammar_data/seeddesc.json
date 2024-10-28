@@ -1,0 +1,12 @@
+{
+    "name": "seeddesc",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "It reproduces by growing [:seeds].",
+                "It propagates by producing [:seeds]."
+            ]
+        }
+    ]
+}

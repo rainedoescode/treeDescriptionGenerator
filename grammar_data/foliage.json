@@ -1,0 +1,29 @@
+{
+    "name": "foliage",
+    "groups": [
+        {
+            "tags": [["foliage", "leaves"]],
+            "phrases": [
+                "oval leaves",
+                "serrated leaves",
+                "round leaves",
+                "compound leaves",
+                "symmetrical leaflets",
+                "triangular leaves",
+                "long leaves",
+                "palmate leaves",
+                "[#3-7]-lobed leaves"
+            ]
+        },
+        {
+            "tags": [["foliage", "needles"]],
+            "phrases": [
+                "flat needles",
+                "four-sided needles",
+                "scale-like needles",
+                "bunched needles",
+                "individual needles"
+            ]
+        }
+    ]
+}

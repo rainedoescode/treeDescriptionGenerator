@@ -1,0 +1,28 @@
+{
+    "name": "",
+    "groups": [
+        {
+            "tags": [["foliage","leaves"]],
+            "phrases": [
+                "berries",
+                "nuts",
+                "seed pods",
+                "catkins",
+                "samaras",
+                "seed capsules",
+                "root sprouts"
+            ]
+        },
+        {
+            "tags": [["foliage","needles"]],
+            "phrases": [
+                "seed-filled cones",
+                "heat-activated cones",
+                "large cones",
+                "round cones",
+                "berry-like cones",
+                "root sprouts"
+            ]
+        }
+    ]
+}

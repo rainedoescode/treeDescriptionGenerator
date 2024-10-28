@@ -1,0 +1,18 @@
+{
+    "name": "canopywidth",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "narrow",
+                "average-width",
+                "expansive",
+                "small",
+                "large",
+                "sprawling",
+                "medium-sized",
+                "broad" 
+            ]
+        }
+    ]
+}
