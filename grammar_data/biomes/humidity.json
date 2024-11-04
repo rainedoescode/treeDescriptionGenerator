@@ -1,0 +1,18 @@
+{
+    "name": "humidity",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "super-arid",
+                "perarid",
+                "arid",
+                "semi-arid",
+                "sub-humid",
+                "humid",
+                "per-humid",
+                "super-humid"
+            ]
+        }
+    ]
+}

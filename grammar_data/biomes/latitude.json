@@ -1,0 +1,17 @@
+{
+    "name": "latitude",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "polar",
+                "subpolar",
+                "boreal",
+                "cool temperate",
+                "warm temperate",
+                "subtropical",
+                "tropical"
+            ]
+        }
+    ]
+}

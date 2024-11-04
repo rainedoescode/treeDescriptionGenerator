@@ -50,7 +50,8 @@ for ( var i = 0; i < 5; i++) {
             Improv.filters.partialBonus(),
             Improv.filters.unmentioned(1),
             Improv.filters.dryness()
-        ]
+        ],
+        reincorporate: true
     });
     console.log(generator.gen('root', {}));
     console.log("------------")

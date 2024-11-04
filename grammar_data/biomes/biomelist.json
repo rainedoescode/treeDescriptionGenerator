@@ -1,0 +1,42 @@
+{
+    "name": "biome",
+    "groups": [
+        {
+            "tags": [["latitude","polar"]],
+            "phrases": [
+                "polar desert"
+            ]
+        },
+        {
+            "tags": [["latitude","subpolar"],["humidity", "sub-humid"]],
+            "phrases": [
+                "dry tundra"
+            ]
+        },
+        {
+            "tags": [["latitude","subpolar"],["humidity", "humid"]],
+            "phrases": [
+                "moist tundra"
+            ]
+        },
+        {
+            "tags": [["latitude","subpolar"],["humidity", "per-humid"]],
+            "phrases": [
+                "wet tundra"
+            ]
+        },
+        {
+            "tags": [["latitude","subpolar"],["humidity", "super-humid"]],
+            "phrases": [
+                "rain tundra"
+            ]
+        },
+        {
+            "tags": [["latitude","boreal"],["humidity", "semi-arid"]],
+            "phrases": [
+                "desert"
+            ]
+        }
+    ],
+    "note": "biome list for future environmental generation, based on holdridge life zones"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "altitude",
+    "groups": [
+        {
+            "tags": [],
+            "phrases": [
+                "alvar",
+                "alpine",
+                "subalpine",
+                "montane",
+                "lower montane",
+                "premontane"
+            ]
+        }
+    ]
+}
