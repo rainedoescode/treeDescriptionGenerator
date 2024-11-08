@@ -1,9 +1,10 @@
 # treeDescriptionGenerator
-Entry for ProcJam 2018
+Entry for ProcJam 2018, 2019, and 2024
+A perennial project with slow, incremental updates.
+This program currently generates descriptions of tree-like plants.
 
-A program that generates descriptions of tree-like plants
 ------------------
-- Example Output -
+- **Example Output** -
 ------------------
 ------------
 This flora is lofty and has scale-like needles.
@@ -38,5 +39,44 @@ This flora is lofty and has oval leaves.
 The bark is smooth and cool grey in color.
 It has a large, thin canopy that is conical in shape.
 It reproduces by growing nuts.
+
+------------
+
+
+**Updated generation examples for November 2024 version**
+
+------------
+This tree is gigantic, ancient, and has individual needles.
+It has a small, crowded canopy that is disc-like in shape.
+The flora's skin is light brown and ridged.
+It reproduces by growing round cones.
+
+------------
+------------
+This aging, average-height flora has individual needles.
+The bark is scarred and tan in color.
+It propagates by producing heat-activated cones.
+It has a sprawling, thin canopy that is spreading in shape.
+
+------------
+------------
+This gigantic ancient plant has four-sided needles.
+It propagates by producing round cones.
+The canopy is ovoid, thin, and medium-sized.
+The flora's skin is lump-covered and light brown.
+
+------------
+------------
+This mature, towering tree has bunched needles.
+The bark is grey-brown and bumpy.
+It has a small, uneven canopy that is rounded in shape.
+It propagates by producing large cones.
+
+------------
+------------
+This tree is towering, old, and has round leaves.
+It reproduces by growing root sprouts.
+The plant's skin is tan and scarred.
+It has an expansive, irregular canopy that is fountain-like in shape.
 
 ------------

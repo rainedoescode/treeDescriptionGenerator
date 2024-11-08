@@ -5,7 +5,9 @@
             "tags": [],
             "phrases": [
                 "This [:plantage] [:plantword] is [:height] and has [:foliage].\n[:graph]",
-                "This [:height] [:plantword] appears [:plantage] and has [:foliage].\n[:graph]"
+                "This [:plantage], [:height] [:plantword] has [:foliage].\n[:graph]",
+                "This [:height] [:plantage] [:plantword] has [:foliage].\n[:graph]",
+                "This [:plantword] is [:height], [:plantage], and has [:foliage].\n[:graph]"
             ]
         }
     ]
