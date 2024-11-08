@@ -1,10 +1,10 @@
 # treeDescriptionGenerator
 Entry for ProcJam 2018, 2019, and 2024
 A perennial project with slow, incremental updates.
-This program currently generates descriptions of tree-like plants.
+This program currently generates descriptions of tree-like plants using improv.js
 
 ------------------
-- **Example Output** -
+**Example Output**
 ------------------
 ------------
 This flora is lofty and has scale-like needles.
