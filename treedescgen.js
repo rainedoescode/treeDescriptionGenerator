@@ -53,6 +53,6 @@ for ( var i = 0; i < 5; i++) {
         ],
         reincorporate: true
     });
-    console.log(generator.gen('root', {}));
+    console.log(generator.gen('base', {}));
     console.log("------------")
 }
