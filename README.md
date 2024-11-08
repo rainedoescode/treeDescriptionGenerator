@@ -46,20 +46,6 @@ It reproduces by growing nuts.
 **Updated generation examples for November 2024 version**
 
 ------------
-This tree is gigantic, ancient, and has individual needles.
-It has a small, crowded canopy that is disc-like in shape.
-The flora's skin is light brown and ridged.
-It reproduces by growing round cones.
-
-------------
-------------
-This aging, average-height flora has individual needles.
-The bark is scarred and tan in color.
-It propagates by producing heat-activated cones.
-It has a sprawling, thin canopy that is spreading in shape.
-
-------------
-------------
 This gigantic ancient plant has four-sided needles.
 It propagates by producing round cones.
 The canopy is ovoid, thin, and medium-sized.
@@ -78,5 +64,19 @@ This tree is towering, old, and has round leaves.
 It reproduces by growing root sprouts.
 The plant's skin is tan and scarred.
 It has an expansive, irregular canopy that is fountain-like in shape.
+
+------------
+------------
+This mature, diminutive tree has 6-lobed leaves.
+The canopy is weeping, impenetrable, and expansive.
+It propagates by producing berries.
+The cool grey bark is gnarled.
+
+------------
+------------
+This plant is tall, mature, and has compound leaves.
+The canopy is disc-like, dense, and average-width.
+The tree's skin is lump-covered and warm grey.
+It reproduces by growing nuts.
 
 ------------
