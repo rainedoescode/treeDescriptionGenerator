@@ -36,6 +36,114 @@
             "phrases": [
                 "desert"
             ]
+        },
+        {
+            "tags": [["latitude","boreal"],["humidity", "sub-humid"]],
+            "phrases": [
+                "dry scrub"
+            ]
+        },
+        {
+            "tags": [
+                ["latitude","boreal","cool temperate","warm temperate","subtropical","tropical"],
+                ["humidity", "humid"]
+            ],
+            "phrases": [
+                "moist forest"
+            ]
+        },
+        {
+            "tags": [
+                ["latitude","boreal","cool temperate","warm temperate","subtropical","tropical"],
+                ["humidity", "per-humid"]
+            ],
+            "phrases": [
+                "wet forest"
+            ]
+        },
+        {
+            "tags": [
+                ["latitude","boreal","cool temperate","warm temperate","subtropical","tropical"],
+                ["humidity", "super-humid"]
+            ],
+            "phrases": [
+                "rain forest"
+            ]
+        },
+        {
+            "tags": [["latitude","cool temperate"],["humidity", "arid"]],
+            "phrases": [
+                "desert"
+            ]
+        },
+        {
+            "tags": [["latitude","cool temperate"],["humidity", "semi-arid"]],
+            "phrases": [
+                "desert scrub"
+            ]
+        },
+        {
+            "tags": [["latitude","cool temperate"],["humidity", "sub-humid"]],
+            "phrases": [
+                "steppe"
+            ]
+        },
+        {
+            "tags": [["latitude","warm temperate","subtropical"],["humidity", "perarid"]],
+            "phrases": [
+                "desert"
+            ]
+        },
+        {
+            "tags": [["latitude","warm temperate","subtropical"],["humidity", "arid"]],
+            "phrases": [
+                "desert scrub"
+            ]
+        },
+        {
+            "tags": [["latitude","warm temperate","subtropical"],["humidity", "semi-arid"]],
+            "phrases": [
+                "thorn steppe"
+            ]
+        },
+        {
+            "tags": [["latitude","warm temperate","subtropical"],["humidity", "semi-arid"]],
+            "phrases": [
+                "woodland"
+            ]
+        },
+        {
+            "tags": [
+                ["latitude","warm temperate","subtropical","tropical"],
+                ["humidity", "sub-humid"]
+            ],
+            "phrases": [
+                "dry forest"
+            ]
+        },
+        {
+            "tags": [["latitude","tropical"],["humidity", "super-arid"]],
+            "phrases": [
+                "desert"
+            ]
+        },
+        {
+            "tags": [["latitude","tropical"],["humidity", "perarid"]],
+            "phrases": [
+                "desert scrub"
+            ]
+        },
+        {
+            "tags": [["latitude","tropical"],["humidity", "arid"]],
+            "phrases": [
+                "thorn woodland"
+            ]
+        },
+        {
+            "tags": [["latitude","tropical"],["humidity", "arid"]],
+            "phrases": [
+                "very dry forest"
+            ]
         }
     ],
     "note": "biome list for future environmental generation, based on holdridge life zones"
